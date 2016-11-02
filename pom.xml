@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>leaflet-locatecontrol</artifactId>
-    <version>0.56.0-SNAPSHOT</version>
+    <version>0.56.0</version>
     <name>Leaflet.Locate</name>
     <description>WebJar for Leaflet.Locate</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/leaflet-locatecontrol</url>
         <connection>scm:git:https://github.com/webjars/leaflet-locatecontrol.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/leaflet-locatecontrol.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>leaflet-locatecontrol-0.56.0</tag>
     </scm>
     
     <dependencies>
